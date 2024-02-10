@@ -31,6 +31,53 @@ Few new columns are added for further analysis:
   - duration b/w 40-50s	3-4 lac
   - duration below 20s	Above 4 lac
 
-## Instagram-page-Analysis
+### Analysis and Insights:
+#### 1. Basic statistics of data:
+- Followers:	106100
+- Total Page Reach:	7206419
+- No. of Visits:	171877
+- New Followers:	61166
+- Total Impressions:	9130594
+- Engagement Rate:	9%
+- Growth Rate:	1%
+- Retention Rate:	42%
+#### 2. Engagement across different post types
 
-### Instagram-page-Analysis
+![image](https://github.com/vishnupriya-projects/Instagram-page-Analysis/assets/159273003/6692002d-77ea-47a9-a91f-b2817652d10c)
+
+From above analysis it was clear that reels are contributing more impressions, reach & shares & more engagement rate with users followed by carousel & image type posts.
+observation: The content posted in form of REELS was attracted by more users than image posts.
+
+
+#### 3. Retention rate, Engagement rate analysis based on duration bucket
+
+![image](https://github.com/vishnupriya-projects/Instagram-page-Analysis/assets/159273003/d1d6cd95-3ba7-4adf-8128-d94826c8d81e)
+
+From above table, if we divide data of above 30s & below 30s, impressions, reach, and engagement rate are more for > 30 s reels but retention rate was least. 
+Observation:
+- If impressions & reach need to increase then 50 s reels can be preferred.
+- If retention rate i.e., the posted content needs to watch till end, below 20s reels can be preferred.
+- To increase engagement rate, 40-50 sec reels can be preferred.
+
+#### 4. Analysis of impressions
+
+
+
+
+
+
+
+#### 2. Engagement across different post types
+
+
+
+#### 2. Engagement across different post types
+
+
+
+#### 2. Engagement across different post types
+
+
+
+
+
