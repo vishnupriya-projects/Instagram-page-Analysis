@@ -126,7 +126,7 @@ From above graph we see that word count was dispersed and there is no relation b
 ![image](https://github.com/vishnupriya-projects/Instagram-page-Analysis/assets/159273003/d2409fec-9454-4089-9ce6-0c5c57bdd834)
 
 
-### Recommandations
+### Recommendations
 - Most of the followers are belongs to INDIA, USA specially from Bangalore region in INDIA.
 - According to gender wise 25-34 age group people are the more followers and majority are male.
 - IG Reels are contributing high impressions, reach, followers and engagement rate than other type of posts.
@@ -138,8 +138,9 @@ From above graph we see that word count was dispersed and there is no relation b
 - More impressions are received for key words related to jobs, interview preparation, BIG DATA, data science related COURSES like python, statistics and excel, AI etc.
 - To improve more impressions the content related to above mentioned key words need to increase.
 
-### Recommandations
+### Acknowledgement
 
+-Thanks to dataanalystduo team, for providing the data and Special thanks to kalpesh for your guidence through out the project.
 
 
 
